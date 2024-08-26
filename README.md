@@ -2,7 +2,7 @@
 ## 1. Tổng quan
 * Dự án của team mình ở Lab AIoT PTIT.
 * Ngôn ngữ: `C++`, `JavaScript`.
-* Ảnh sản phẩm: https://prnt.sc/DlyIVg4AOkPa
+* Ảnh sản phẩm: [Github](https://imgur.com/a/Xc2uTB8)
 ## 2. Các chức năng
 * Mở cửa.
 * Điểm danh trên google sheets.
@@ -11,6 +11,7 @@
 * LCD 16x2
 * 2 nút nhấn
 * Servo90
+* Rfid RC522
 ## 4. Gửi dữ liệu lên google sheets
-* Tạo tài khoản gmail
+* https://imgur.com/a/VV8MjHh
   
