@@ -2,7 +2,7 @@
 ## 1. Tổng quan
 * Dự án của team mình ở Lab AIoT PTIT.
 * Ngôn ngữ: `C++`, `JavaScript`.
-* Ảnh sản phẩm: [Github](https://imgur.com/a/Xc2uTB8)
+* Ảnh sản phẩm: [Project](https://imgur.com/a/Xc2uTB8)
 ## 2. Các chức năng
 * Mở cửa.
 * Điểm danh trên google sheets.
