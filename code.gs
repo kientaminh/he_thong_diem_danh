@@ -1,4 +1,3 @@
-```js
 var timeZone = "Asia/Jakarta";
 var dateTimeFormat = "dd/MM/yyyy HH:mm:ss";
 var logSpreadSheetId = "1vSSHADU6Jqw6idb1LNycORWxwKmK0mGBkHwVXL69t2k";
@@ -185,4 +184,3 @@ function stripQuotes(value) {
   return value.replace(/^["']|['"]$/g, "");
 }
 
-```
