@@ -1,10 +1,16 @@
 # Hệ thống điểm danh
 ## 1. Tổng quan
 * Dự án của team mình ở Lab AIoT PTIT.
-* Ngôn ngữ: 'C++', 'JavaScript'.
+* Ngôn ngữ: `C++`, `JavaScript`.
 * Ảnh sản phẩm: https://prnt.sc/DlyIVg4AOkPa
 ## 2. Các chức năng
-* Mở cửa
-* Điểm danh
-* Thêm / xóa users
+* Mở cửa.
+* Điểm danh trên google sheets.
+* Thêm / xóa users.
+## 3. Phần cứng
+* LCD 16x2
+* 2 nút nhấn
+* Servo90
+## 4. Gửi dữ liệu lên google sheets
+* Tạo tài khoản gmail
   
